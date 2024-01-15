@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:50:14	1450/1450	---MCZ	404	error ('Not%20Found')	text/html	etag:1703109573-ssl-df	https://authenticate-login.netlify.app/robots.txt		(from )
+19:50:15	2592/2592	---M-Z	200	added ('OK')	text/html	etag:%225e95937fd0975ed33d7780967e40c559-ssl-df%22	https://authenticate-login.netlify.app/	C:/Users/osato/OneDrive/Documents/kelbft/authenticate-login.netlify.app/index.html	(from )
